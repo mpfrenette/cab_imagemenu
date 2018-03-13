@@ -1,0 +1,1 @@
+This extension makes a simple image menu with a custumizable template.
